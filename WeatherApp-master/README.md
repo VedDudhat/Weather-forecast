@@ -74,7 +74,7 @@ To fix a bug or enhance an existing module, follow these steps:
 5. Open a Pull Request
 
 ## Support & Feedback
-If you are having technical issues or want to raise a bug/issue with the app, the preferred way is through [GitHub issues](https://github.com/enessfk/WeatherApp/issues). In order to contact with me for any other request please send an email to: **eneskeskinfk@gmail.com**
+If you are having technical issues or want to raise a bug/issue with the app, the preferred way is through [GitHub issues](https://github.com/enessfk/WeatherApp/issues). In order to contact with me for any other request please send an email to: **veddudhat18@gmail.com**
 
 ## License
 
