@@ -4,35 +4,7 @@
 
 <h1 align="center">WeatherApp</h1>
 
-<p align="center">:sun_behind_small_cloud: An awesome Android weather forecast app, which uses OpenWeatherMap API. :open_umbrella::cloud_with_lightning_and_rain: ( Java, Android Studio ) </p>
-
-<p align="center">
-  <strong>
-    <a href="#about">About</a> • 
-    <a href="#features">Features</a> • 
-    <a href="#built-with">Built with</a> • 
-    <a href="#usage">Usage</a> • 
-    <a href="#contributing">Contributing</a> • 
-    <a href="#support--feedback">Support & Feedback</a> • 
-    <a href="#license">License</a>  
-  </strong>
-</p>
-
-<p align="center">
-  <img src="./images/home.jpg" height="auto" width="30%"  alt="home"/> &emsp;
-  <img src="./images/search.jpg" height="auto" width="30%"  alt="search"/> &emsp;
-</p> 
-
-<p align="center"> 
-  <img src="./app/src/main/res/drawable/w01d.png" height="auto" width="8%" alt="w01d"/>
-  <img src="./app/src/main/res/drawable/w13d.png" height="auto" width="8%" alt="w13d"/> 
-  <img src="./app/src/main/res/drawable/w04d.png" height="auto" width="8%" alt="w04d"/> 
-  <img src="./app/src/main/res/drawable/w09d.png" height="auto" width="8%" alt="w09d"/> 
-  <img src="./app/src/main/res/drawable/w10d.png" height="auto" width="8%" alt="w10d"/> 
-  <img src="./app/src/main/res/drawable/w11d.png" height="auto" width="8%" alt="w11d"/> 
-  <img src="./app/src/main/res/drawable/w02d.png" height="auto" width="8%" alt="w02d"/> 
-  <img src="./app/src/main/res/drawable/w03d.png" height="auto" width="8%" alt="w03d"/> 
-</p> 
+<p align="center">An awesome Android weather forecast app, which uses OpenWeatherMap API. :open_umbrella::cloud_with_lightning_and_rain: ( Java, Android Studio ) </p>
 
 ## About
 
@@ -62,19 +34,8 @@ In order to use the project, you first need your own OpenWeatherMap API key:
 ```properties
 ApiKey = YOUR_OPENWEATHERMAP_API_KEY
 ```
-
-## Contributing
-Want to contribute? Great!
-To fix a bug or enhance an existing module, follow these steps:
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/enhanced-feature`)
-3. Commit your Changes (`git commit -m 'Add some enhanced-feature'`)
-4. Push to the Branch (`git push origin feature/enhanced-feature`)
-5. Open a Pull Request
-
 ## Support & Feedback
-If you are having technical issues or want to raise a bug/issue with the app, the preferred way is through [GitHub issues](https://github.com/enessfk/WeatherApp/issues). In order to contact with me for any other request please send an email to: **veddudhat18@gmail.com**
+If you are having technical issues or want to raise a bug/issue with the app, the preferred way is through (https://github.com/VedDudhat/Weather-forecast). In order to contact with me for any other request please send an email to: **veddudhat18@gmail.com**
 
 ## License
 
